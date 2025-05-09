@@ -95,9 +95,7 @@ Adicione a página atual aos favoritos usando **`Ctrl + D`**.
 
 Para acessar:
 
-Via interface: Menu "Navegação" > "Favoritos"
-
-Via terminal: Execute python main.py -favs
+Via terminal: Execute browlite-favs
 
 ⚙️ Personalização Avançada
 
@@ -127,8 +125,6 @@ Para adicionar novos buscadores, edite o dicionário SEARCH_ENGINES no código.
 Este projeto contou com o suporte técnico e consultoria especializada do DeepSeek Chat durante o processo de desenvolvimento. Sua contribuição foi fundamental para:
 
 Otimização de desempenho
-
-Implementação de recursos-chave
 
 Documentação técnica
 
