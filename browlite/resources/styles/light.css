@@ -1,0 +1,37 @@
+/* Tema Claro - Light Mode*/
+QMainWindow {
+    background-color: #f8fefc; /* fundo bem clarinho com toque menta */
+}
+
+QToolBar {
+    background-color: #e6f7f3; /* um cinza esverdeado bem leve */
+    border: none;
+    padding: 2px;
+}
+
+QLineEdit {
+    background-color: #ffffff;
+    color: #000000;
+    border: 1px solid #80d9c4; /* menta suave */
+    border-radius: 4px;
+    padding: 5px;
+    selection-background-color: #5fc3ad; /* menta principal */
+}
+
+QStatusBar {
+    background-color: #e6f7f3;
+    color: #337d6b; /* tom escuro de menta pro texto */
+}
+
+QProgressBar {
+    border: 1px solid #80d9c4;
+    border-radius: 3px;
+    text-align: center;
+    background-color: #f0fefb; /* quase branco com menta de leve */
+}
+
+QProgressBar::chunk {
+    background-color: #5fc3ad; /* menta principal */
+    width: 10px;
+}
+

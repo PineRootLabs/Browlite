@@ -1,12 +1,51 @@
+Metadata-Version: 2.4
+Name: browlite
+Version: 1.0.0
+Summary: Lightweight Qt Web Browser
+Home-page: https://github.com/PineRootLabs/Browlite
+Author: PineRootLabs
+Author-email: contact@pinerootlabs.com
+License: MIT
+Keywords: browser qt pyqt
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Operating System :: OS Independent
+Classifier: Environment :: X11 Applications :: Qt
+Classifier: Topic :: Internet :: WWW/HTTP :: Browsers
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: PyQt5>=5.15.4
+Requires-Dist: PyQtWebEngine>=5.15.5
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+[![Licença MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/PineRootLabs/Browlite/blob/main/LICENSE)
+
+# 🌐 Browlite - Navegador Minimalista de Alto Desempenho
+
 [![Licença MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/PineRootLabs/Browlite/blob/main/LICENSE)
 [![Versão Python](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![GitHub stars](https://img.shields.io/github/stars/PineRootLabs/Browlite.svg)](https://github.com/PineRootLabs/Browlite/stargazers)
 
-# 🌐 Browlite - Navegador Minimalista de Alto Desempenho
-
 **Browlite** é um navegador web minimalista desenvolvido em Python, focado em privacidade, desempenho e customização. Projetado para ser leve e rápido, consome menos recursos que navegadores tradicionais.
 
-🔗 **Repositório Oficial**: [https://github.com/PineRootLabs/Browlite](https://github.com/PineRootLabs/Browlite)
+🔗 **Repositório Oficial**: https://github.com/PineRootLabs/Browlite
 
 ## ✨ Recursos Principais
 
@@ -50,7 +89,6 @@ Solicitar a escolha do mecanismo de busca padrão
 Os arquivos de configuração serão gerados automaticamente na pasta do projeto.
 
 📂 Estrutura de Arquivos
-
 Browlite/
 ├── main.py                 # Código principal
 ├── config.ini              # Configurações do usuário (gerado automaticamente)
@@ -61,13 +99,7 @@ Browlite/
     ├── google.png
     ├── duckduckgo.png
     ├── bing.png
-    ├── yahoo.png
-    ├── ecosia.png
-    ├── back.png
-    ├── forward.png
-    ├── refresh.png
-    └── home.png
-
+    └── (...)
 🕹️ Como Usar
 Comandos Básicos
 Comando	Descrição
@@ -90,11 +122,10 @@ Via interface: Menu "Navegação" > "Favoritos"
 Via terminal: Execute python main.py -favs
 
 ⚙️ Personalização Avançada
-
-Edite os arquivos .ini para ajustes personalizado:
+Edite os arquivos .ini para ajustes finos:
 
 Configurações Principais (config.ini)
-
+ini
 [DEFAULT]
 homepage = https://www.google.com  ; Página inicial
 dark_mode = true                  ; Tema escuro
@@ -114,17 +145,16 @@ Ecosia (ecosia)
 Para adicionar novos buscadores, edite o dicionário SEARCH_ENGINES no código.
 
 🤝 Agradecimentos Especiais
-Este projeto contou com o suporte técnico e consultoria especializada do DeepSeek Chat durante o processo de desenvolvimento. Sua contribuição foi fundamental para:
+Este projeto contou com o suporte técnico e consultoria especializada do DeepSeek Chat (by DeepSeek) durante o processo de desenvolvimento. Sua contribuição foi fundamental para:
 
 Otimização de desempenho
-
-Implementação de recursos-chave
 
 Documentação técnica
 
 "A inteligência artificial não substitui a criatividade humana, mas pode amplificá-la exponencialmente." - PineRootLabs
 
+
 ✉️ Contato
-Desenvolvido por Caio R. - DevDark249@gmail.com
+Desenvolvido por Caio R. - [DevDark249@Gmail.com]
 
 🔗 Repositório: https://github.com/PineRootLabs/Browlite

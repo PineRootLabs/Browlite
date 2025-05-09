@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+browlite/__init__.py
+browlite/config.py
+browlite/main.py
+browlite/utils.py
+browlite.egg-info/PKG-INFO
+browlite.egg-info/SOURCES.txt
+browlite.egg-info/dependency_links.txt
+browlite.egg-info/entry_points.txt
+browlite.egg-info/requires.txt
+browlite.egg-info/top_level.txt
