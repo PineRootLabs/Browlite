@@ -76,9 +76,9 @@ Browlite/
 
 | Comando                 | Descrição                          |
 |-------------------------|------------------------------------|
-| `python main.py`        | Inicia o navegador normalmente     |
-| `python main.py -favs`  | Mostra favoritos no terminal       |
-| `python main.py [URL]`  | Abre uma URL específica            |
+| browlite                | Inicia o navegador normalmente     |
+| browlite-favs           | Mostra favoritos no terminal       |
+| browlite [URL]          | Abre uma URL específica            |
 
 ## ⌨️ Atalhos do Teclado
 
