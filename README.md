@@ -77,25 +77,9 @@ Browlite/
 | Comando                 | Descrição                          |
 |-------------------------|------------------------------------|
 | browlite                | Inicia o navegador normalmente     |
-| browlite-favs           | Mostra favoritos no terminal       |
 | browlite [URL]          | Abre uma URL específica            |
+________________________________________________________________
 
-## ⌨️ Atalhos do Teclado
-
-| Atalho        | Ação                         |
-|---------------|------------------------------|
-| `Ctrl + L`    | Foca na barra de URL         |
-| `Ctrl + D`    | Adiciona página aos favoritos|
-| `Alt + ← / →` | Navega para trás / frente    |
-| `F5`          | Recarrega a página           |
-
-## ⭐ Gerenciamento de Favoritos
-
-Adicione a página atual aos favoritos usando **`Ctrl + D`**.
-
-Para acessar:
-
-Via terminal: Execute browlite-favs
 
 ⚙️ Personalização Avançada
 
