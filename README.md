@@ -8,7 +8,7 @@
 
 🔗 **Repositório Oficial**: [https://github.com/PineRootLabs/Browlite](https://github.com/PineRootLabs/Browlite)
 
-📦 **Download**: [https://pypi.org/project/browlite/]
+📦 **Download Via pip (PyPI)**: [https://pypi.org/project/browlite/]
 
 ## ✨ Recursos Principais
 
