@@ -73,19 +73,19 @@ Browlite/
 ## 🚀 Comandos Básicos
 
 | Comando                 | Descrição                          |
-|------------------------|-----------------------------------|
+|-------------------------|------------------------------------|
 | `python main.py`        | Inicia o navegador normalmente     |
 | `python main.py -favs`  | Mostra favoritos no terminal       |
 | `python main.py [URL]`  | Abre uma URL específica            |
 
 ## ⌨️ Atalhos do Teclado
 
-| Atalho       | Ação                         |
-|--------------|-----------------------------|
-| `Ctrl + L`    | Foca na barra de URL        |
+| Atalho        | Ação                         |
+|---------------|------------------------------|
+| `Ctrl + L`    | Foca na barra de URL         |
 | `Ctrl + D`    | Adiciona página aos favoritos|
-| `Alt + ← / →` | Navega para trás / frente   |
-| `F5`          | Recarrega a página          |
+| `Alt + ← / →` | Navega para trás / frente    |
+| `F5`          | Recarrega a página           |
 
 ## ⭐ Gerenciamento de Favoritos
 
