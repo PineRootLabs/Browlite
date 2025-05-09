@@ -133,6 +133,6 @@ Documentação técnica
 "A inteligência artificial não substitui a criatividade humana, mas pode amplificá-la exponencialmente." - PineRootLabs
 
 ✉️ Contato
-Desenvolvido por Caio R. - DevDark249@gmail.com
+Desenvolvido por Caio R. - Suporte+pinerootlabs@gmail.com
 
 🔗 Repositório: https://github.com/PineRootLabs/Browlite
