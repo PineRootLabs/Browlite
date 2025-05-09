@@ -36,7 +36,7 @@ cd Browlite
 pip install PyQt5 PyQtWebEngine
 
 # Execute o navegador
-python main.py
+browlite
 
 🎛️ Configuração Inicial
 Na primeira execução, o Browlite irá:
