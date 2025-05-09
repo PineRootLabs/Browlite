@@ -8,6 +8,8 @@
 
 🔗 **Repositório Oficial**: [https://github.com/PineRootLabs/Browlite](https://github.com/PineRootLabs/Browlite)
 
+📦 **Download**: [https://pypi.org/project/browlite/]
+
 ## ✨ Recursos Principais
 
 - ✅ **Extremamente leve** (usa ~50% menos RAM que navegadores convencionais)

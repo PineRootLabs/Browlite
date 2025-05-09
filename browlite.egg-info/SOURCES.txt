@@ -11,3 +11,14 @@ browlite.egg-info/dependency_links.txt
 browlite.egg-info/entry_points.txt
 browlite.egg-info/requires.txt
 browlite.egg-info/top_level.txt
+browlite/resources/icons/back.png
+browlite/resources/icons/bing.png
+browlite/resources/icons/duckduckgo.png
+browlite/resources/icons/ecosia.png
+browlite/resources/icons/forward.png
+browlite/resources/icons/google.png
+browlite/resources/icons/home.png
+browlite/resources/icons/refresh.png
+browlite/resources/icons/yahoo.png
+browlite/resources/styles/dark.css
+browlite/resources/styles/light.css
