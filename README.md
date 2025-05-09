@@ -96,7 +96,7 @@ Edite os arquivos .ini para ajustes personalizado:
 Configurações Principais (config.ini)
 
 [DEFAULT]
-homepage = https://www.google.com  ; Página inicial
+homepage = https://www.google.com ; Página inicial
 dark_mode = true                  ; Tema escuro
 block_ads = true                  ; Bloqueio de anúncios
 default_search_engine = google    ; Mecanismo de busca padrão
