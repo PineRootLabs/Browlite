@@ -68,20 +68,28 @@ Browlite/
     ├── refresh.png
     └── home.png
 
-🕹️ Como Usar
-Comandos Básicos
-Comando	Descrição
-python main.py	Inicia o navegador normalmente
-python main.py -favs	Mostra favoritos no terminal
-python main.py [URL]	Abre uma URL específica
-Atalhos do Teclado
-Atalho	Ação
-Ctrl+L	Foca na barra de URL
-Ctrl+D	Adiciona página aos favoritos
-Alt+←/→	Navega para trás/frente
-F5	Recarrega a página
-Gerenciamento de Favoritos
-Adicione a página atual aos favoritos com Ctrl+D
+# 🕹️ Como Usar
+
+## 🚀 Comandos Básicos
+
+| Comando                 | Descrição                          |
+|------------------------|-----------------------------------|
+| `python main.py`        | Inicia o navegador normalmente     |
+| `python main.py -favs`  | Mostra favoritos no terminal       |
+| `python main.py [URL]`  | Abre uma URL específica            |
+
+## ⌨️ Atalhos do Teclado
+
+| Atalho       | Ação                         |
+|--------------|-----------------------------|
+| `Ctrl + L`    | Foca na barra de URL        |
+| `Ctrl + D`    | Adiciona página aos favoritos|
+| `Alt + ← / →` | Navega para trás / frente   |
+| `F5`          | Recarrega a página          |
+
+## ⭐ Gerenciamento de Favoritos
+
+Adicione a página atual aos favoritos usando **`Ctrl + D`**.
 
 Para acessar:
 
