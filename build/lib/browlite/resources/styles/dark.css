@@ -1,0 +1,36 @@
+/* Tema Escuro - Dark Mode*/
+QMainWindow {
+    background-color: #2d2d2d;
+}
+
+QToolBar {
+    background-color: #34403d; /* verde escuro puxando pro menta */
+    border: none;
+    padding: 2px;
+}
+
+QLineEdit {
+    background-color: #3b4f4b;
+    color: #e0fff7;
+    border: 1px solid #5fc3ad; /* menta suave */
+    border-radius: 4px;
+    padding: 5px;
+    selection-background-color: #5fc3ad; /* menta */
+}
+
+QStatusBar {
+    background-color: #34403d;
+    color: #1a1a1a;
+}
+
+QProgressBar {
+    border: 1px solid #5fc3ad;
+    border-radius: 3px;
+    text-align: center;
+    background-color: #2f3b38;
+}
+
+QProgressBar::chunk {
+    background-color: #5fc3ad; /* menta principal */
+    width: 10px;
+}

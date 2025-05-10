@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: browlite
-Version: 1.0.0
+Version: 1.0.1
 Summary: Navegador minimalista leve e rápido com foco em privacidade
 Home-page: https://github.com/PineRootLabs/Browlite
 Author: PineRootLabs
@@ -32,6 +32,8 @@ Requires-Dist: PyQtWebEngine>=5.15.5
 
 🔗 **Repositório Oficial**: [https://github.com/PineRootLabs/Browlite](https://github.com/PineRootLabs/Browlite)
 
+📦 **Download Via pip (PyPI)**: [https://pypi.org/project/browlite/]
+
 ## ✨ Recursos Principais
 
 - ✅ **Extremamente leve** (usa ~50% menos RAM que navegadores convencionais)
@@ -58,7 +60,7 @@ cd Browlite
 pip install PyQt5 PyQtWebEngine
 
 # Execute o navegador
-python main.py
+browlite
 
 🎛️ Configuração Inicial
 Na primeira execução, o Browlite irá:
@@ -92,26 +94,16 @@ Browlite/
     ├── refresh.png
     └── home.png
 
-🕹️ Como Usar
-Comandos Básicos
-Comando	Descrição
-python main.py	Inicia o navegador normalmente
-python main.py -favs	Mostra favoritos no terminal
-python main.py [URL]	Abre uma URL específica
-Atalhos do Teclado
-Atalho	Ação
-Ctrl+L	Foca na barra de URL
-Ctrl+D	Adiciona página aos favoritos
-Alt+←/→	Navega para trás/frente
-F5	Recarrega a página
-Gerenciamento de Favoritos
-Adicione a página atual aos favoritos com Ctrl+D
+# 🕹️ Como Usar
 
-Para acessar:
+## 🚀 Comandos Básicos
 
-Via interface: Menu "Navegação" > "Favoritos"
+| Comando                 | Descrição                          |
+|-------------------------|------------------------------------|
+| browlite                | Inicia o navegador normalmente     |
+| browlite [URL]          | Abre uma URL específica            |
+________________________________________________________________
 
-Via terminal: Execute python main.py -favs
 
 ⚙️ Personalização Avançada
 
@@ -120,7 +112,7 @@ Edite os arquivos .ini para ajustes personalizado:
 Configurações Principais (config.ini)
 
 [DEFAULT]
-homepage = https://www.google.com  ; Página inicial
+homepage = https://www.google.com ; Página inicial
 dark_mode = true                  ; Tema escuro
 block_ads = true                  ; Bloqueio de anúncios
 default_search_engine = google    ; Mecanismo de busca padrão
@@ -142,13 +134,11 @@ Este projeto contou com o suporte técnico e consultoria especializada do DeepSe
 
 Otimização de desempenho
 
-Implementação de recursos-chave
-
 Documentação técnica
 
 "A inteligência artificial não substitui a criatividade humana, mas pode amplificá-la exponencialmente." - PineRootLabs
 
 ✉️ Contato
-Desenvolvido por Caio R. - DevDark249@gmail.com
+Desenvolvido por Caio R. - [Suporte+pinerootlabs@gmail.com]
 
 🔗 Repositório: https://github.com/PineRootLabs/Browlite
